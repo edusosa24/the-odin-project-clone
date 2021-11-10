@@ -4,6 +4,18 @@
   border-radius: 0.2em;
 }
 
+.mid-btn{
+  width: 14rem;
+  height: 3.5rem;
+  border-radius: 0.2em;
+}
+
+.small-btn{
+  width: 10rem;
+  height: 3.5rem;
+  border-radius: 0.2em;
+}
+
 .shadow-btn{
   box-shadow: 0 0.05em 0.25em 0 rgb(0 0 0 / 50%);
 }
@@ -12,10 +24,18 @@
   background-color: #6abfc3;
 }
 
+.mustard-btn{
+  background-color: #cc9543;
+}
+
 .pointer-hover:hover{
   cursor: pointer;
 }
 
 .aquamarine-hover:hover{
   background-color: #8acfd3;
+}
+
+.mustard-btn-hover:hover{
+  background-color: #eca563;
 }

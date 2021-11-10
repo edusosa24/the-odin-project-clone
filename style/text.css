@@ -23,6 +23,10 @@
   font-size: 1.1rem;
 }
 
+.size-mid-large{
+  font-size: 1.6rem;
+}
+
 .size-large{
   font-size: 2.3rem;
 }
@@ -53,4 +57,15 @@
 
 .centered-text{
   text-align: center;
+}
+
+.height-2{
+  line-height: 1.88;
+}
+.spacing-2{
+  letter-spacing: 0.2px;
+}
+
+.text-left{
+  text-align: left;
 }
