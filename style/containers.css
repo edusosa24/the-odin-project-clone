@@ -1,0 +1,31 @@
+.flex-hr{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;  
+}
+
+.tw-grid{
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  grid-gap: 10px;
+}
+
+.top-margin-3{
+  margin-top: 3rem;
+}
+
+.top-margin-2{
+  margin-top: 2rem;
+}
+
+.section-full{
+  grid-column: 1/13;
+}
+
+.section-centered{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6rem;
+}

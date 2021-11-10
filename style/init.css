@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
+  color: black;
+  list-style-type: none;
 }
 
 body{
@@ -9,4 +12,12 @@ body{
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: minmax(100px, auto);
   grid-gap: 10px;
+}
+
+div{
+  width: fit-content;
+}
+
+button{
+  border: none;
 }

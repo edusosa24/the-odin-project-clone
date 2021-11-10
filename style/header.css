@@ -1,0 +1,29 @@
+/*Max size*/
+header{
+  grid-column: 1/13;
+  display: flex;
+  flex-direction: row;
+  padding: 0 10rem;
+  justify-content: space-between;
+}
+
+.home{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+nav{
+  display: flex;
+  align-self: center;
+}
+
+.h-nav{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: center;
+}
