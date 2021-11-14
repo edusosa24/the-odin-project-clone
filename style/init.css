@@ -5,6 +5,7 @@
   text-decoration: none;
   color: black;
   list-style-type: none;
+  overflow-x: hidden;
 }
 
 body{
