@@ -69,3 +69,24 @@
 .text-left{
   text-align: left;
 }
+
+@media screen and (max-width: 940px){
+  .main-title-odin{
+    font-size: 1.15rem;
+  }
+}
+
+
+@media screen and (max-width: 767px){
+  .hide{
+    visibility: hidden;
+    display: none;
+  }
+}
+
+@media screen and (max-width: 590px){
+  .hide-2{
+    visibility: hidden;
+    display: none;
+  }
+}

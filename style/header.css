@@ -27,3 +27,9 @@ nav{
   gap: 1rem;
   justify-content: center;
 }
+
+@media (max-width: 1028px){
+  header{
+    padding: 0 2rem;
+  }
+}

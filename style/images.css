@@ -33,3 +33,14 @@
   filter: none;
 }
 
+.invisible{
+  visibility: hidden;
+  display: none;
+}
+
+@media screen and (max-width: 767px){
+  .invisible{
+    visibility: visible;
+    display: inline-block;
+  }
+}
