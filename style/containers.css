@@ -211,6 +211,10 @@
     justify-content: center;
   }
 
+  section{
+    padding: 0 1rem;
+  }
+
   .centered-row.justify-center{
     justify-content: center;
     min-width: 100%;
@@ -219,4 +223,5 @@
   .min-height-180{
     min-height: fit-content;
   }
+
 }
