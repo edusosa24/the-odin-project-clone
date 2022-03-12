@@ -1,4 +1,4 @@
-#The Odin project clone
+# The Odin project clone
 
 This is a clone page of "The Odin project", made for practicing responsive design.
 
